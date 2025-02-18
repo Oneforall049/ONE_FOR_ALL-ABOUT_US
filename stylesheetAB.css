@@ -242,7 +242,7 @@ nav ul li a:hover {
     right:8px;
     align-items: center;
     justify-content: center;
-    background-image: url('file:///D:/TEAM%20ONE%20FOR%20ALL%20RECORDS/PROJECT%201.1/IMAGES%20AND%20VIDEOS/Vission%20and%20mission%20background.jpg');
+    background-image: url('IMAGES/Vission and mission background.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -491,13 +491,13 @@ nav ul li a:hover {
     filter: brightness(0.75);
 }
 .image-block-1{
-    background-image: url('file:///D:/TEAM%20ONE%20FOR%20ALL%20RECORDS/PROJECT%201.1/IMAGES%20AND%20VIDEOS/html5-image.png');
+    background-image: url('IMAGES/html5-image.png');
 }
 .image-block-2{
-    background-image: url('file:///D:/TEAM%20ONE%20FOR%20ALL%20RECORDS/PROJECT%201.1/IMAGES%20AND%20VIDEOS/css-image.png');
+    background-image: url('IMAGES/css-image.png');
 }
 .image-block-3{
-    background-image: url('file:///D:/TEAM%20ONE%20FOR%20ALL%20RECORDS/PROJECT%201.1/IMAGES%20AND%20VIDEOS/JavaScript-image.png');
+    background-image: url('IMAGES/JavaScript-image.png');
 }
 .image-block-4{
     background-image: url('file:///D:/TEAM%20ONE%20FOR%20ALL%20RECORDS/PROJECT%201.1/IMAGES%20AND%20VIDEOS/PHP-image.png');
