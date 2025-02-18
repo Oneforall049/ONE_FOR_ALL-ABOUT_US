@@ -83,10 +83,6 @@ header{
    
 }
 
-.logo a{
-    text-decoration: none;
-    color: #FFD700;
-}
 
 nav ul{
     display: flex;
