@@ -80,6 +80,8 @@ header{
     font-weight: bold;
     text-transform: uppercase;
     font-family:'him';
+    text-decoration: none;
+    color: #FFD700;
 }
 
 nav ul{
