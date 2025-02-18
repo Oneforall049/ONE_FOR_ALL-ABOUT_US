@@ -497,16 +497,16 @@ nav ul li a:hover {
     background-image: url('IMAGES/css-image.png');
 }
 .image-block-3{
-    background-image: url('IMAGES\JavaScript-image.png');
+    background-image: url('IMAGES/JavaScript-image.png');
 }
 .image-block-4{
-    background-image: url('file:///D:/TEAM%20ONE%20FOR%20ALL%20RECORDS/PROJECT%201.1/IMAGES%20AND%20VIDEOS/PHP-image.png');
+    background-image: url('IMAGES/PHP-image.png');
 }
 .image-block-5{
-    background-image: url('file:///D:/TEAM%20ONE%20FOR%20ALL%20RECORDS/PROJECT%201.1/IMAGES%20AND%20VIDEOS/canva-image.jpg');
+    background-image: url('IMAGES/CAN');
 }
 .image-block-6{
-    background-image: url('file:///D:/TEAM%20ONE%20FOR%20ALL%20RECORDS/PROJECT%201.1/IMAGES%20AND%20VIDEOS/DevTool-image.jpg');
+    background-image: url('IMAGES/DevTool-image.jpg');
 }
 
 .container-bottom{
@@ -637,10 +637,10 @@ nav ul li a:hover {
     background-image: url('file:///C:/Users/Vineeth%20Choudhary/OneDrive/Pictures/Screenshots/Screenshot%202025-01-20%20201919.png');
 }
 .project-image-block-2{
-    background-image: url('file:///D:/TEAM%20ONE%20FOR%20ALL%20RECORDS/PROJECT%201.1/IMAGES%20AND%20VIDEOS/coming%20soon1.jpg');
+    background-image: url('IMAGES/coming\ soon1.jpg');
 }
 .project-image-block-3{
-    background-image: url('file:///D:/TEAM%20ONE%20FOR%20ALL%20RECORDS/PROJECT%201.1/IMAGES%20AND%20VIDEOS/coming%20soon1.jpg');
+    background-image: url('IMAGES/coming\ soon1.jpg');
 }
 .container-members{
     width: 1500px;
